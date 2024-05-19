@@ -1,7 +1,7 @@
 ### Olá, obrigado por visitar meu perfil! 👋
 
 ## Sobre Mim 🔭
-Olá! Meu nome é Mateus, tenho 21 anos e sou de Belo Horizonte, MG. Atualmente, estou cursando o 5º período de Ciência da Computação na Universidade Federal de Minas Gerais (UFMG). 
+Meu nome é Mateus, tenho 21 anos e sou de Belo Horizonte, MG. Atualmente, estou cursando o 5º período de Ciência da Computação na Universidade Federal de Minas Gerais (UFMG). 
 
 Gosto bastante de jogos de PC (apesar de não ser tão bom 😅) e gosto também de estudar para programação competitiva (talvez eu não seja bom nisso também, brincadeira 😄). Aliás, pratico problemas no site Codeforces.
 
