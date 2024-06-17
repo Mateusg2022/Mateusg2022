@@ -13,3 +13,9 @@ Tecnologias e Ferramentas:
 
 
 Sigo estudando de forma independente HTML, CSS, React js, bibliotecas python para Machine Learning e Programação Competitiva.
+
+Sinta-se à vontade para explorar meus repositórios! ☀️
+
+<p align="center">
+    <img src="https://github.com/Mateusg2022/CODEFORCES/blob/main/4fun/amongus.gif" width="70" align="center">
+</p>
