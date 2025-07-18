@@ -1,6 +1,6 @@
 ### Olá, obrigado por visitar meu perfil!  👋
 
-Meu nome é Mateus, tenho 22 anos e sou de belo Horizonte - MG. Atualmente, estou cursando o 6º período de Ciência da Computação na Universidade Federal de Minas Gerais - UFMG. 
+Meu nome é Mateus, tenho 22 anos e sou de belo Horizonte - MG. Atualmente, estou cursando o 7º período de Ciência da Computação na Universidade Federal de Minas Gerais - UFMG. 
 
 
 💻 Tecnologias:
@@ -15,12 +15,29 @@ Meu nome é Mateus, tenho 22 anos e sou de belo Horizonte - MG. Atualmente, esto
    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
    <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+
   <!--<img align="center" alt="" src="" />-->
 </div><br/>
 
 Sinta-se à vontade para explorar meus repositórios! ☀️
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
 <p align="center">
     <img src="https://github.com/Mateusg2022/CODEFORCES/blob/main/4fun/amongus.gif" width="70" align="center">
 </p>
+
+<!--<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusg2022&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>-->
+
+
+
