@@ -1,7 +1,7 @@
 ### Olá, obrigado por visitar meu perfil!  👋
 
 Meu nome é Mateus, tenho 22 anos e sou de belo Horizonte - MG. Atualmente, estou cursando o 7º período de Ciência da Computação na Universidade Federal de Minas Gerais - UFMG. 
-
+<!--[![Habilidades:](https://skillicons.dev/icons?i=js,python,php,c,cpp,mysql,git)](https://skillicons.dev)-->
 
 💻 Linguagens e Ferramentas:
 <div style="display: inline_block">
