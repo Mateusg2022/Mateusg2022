@@ -24,7 +24,8 @@ Meu nome é Mateus, tenho 22 anos e sou de belo Horizonte - MG. Atualmente, esto
   <!--<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />-->
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-B0FFFF?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <!-- <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-B0FFFF?style=for-the-badge&logo=tailwindcss&logoColor=white" />-->
+  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <!--<img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />-->
   <!--<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />-->
   <!--<img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />-->
