@@ -1,12 +1,12 @@
-### Olá, obrigado por visitar meu perfil!  👋
+### Hi there, thanks for visiting my profile! 👋
 
-Meu nome é Mateus, tenho 23 anos e sou de belo Horizonte - MG. Atualmente, estou cursando Ciência da Computação na Universidade Federal de Minas Gerais - UFMG.
+My name is Mateus, I'm 23 years old and I'm from Belo Horizonte - MG. Currently, I'm studying Computer Science at the Federal University of Minas Gerais (UFMG).
 <br>
 <!--[![Habilidades:](https://skillicons.dev/icons?i=js,python,php,c,cpp,mysql,git)](https://skillicons.dev)-->
 
 <img src="https://img.shields.io/badge/Working at:-Synergia DCC/UFMG-brightgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/github-mateusg2022-blue?logo=github"/>
-<p>💻 Linguagens e Ferramentas:</p>
+<p>💻 Languages ​​and Tools:</p>
 <div style="display: inline_block;">
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="Zend" src="https://img.shields.io/badge/Zend_Framework-68B604?style=for-the-badge&logo=zend&logoColor=white" />
@@ -20,7 +20,7 @@ Meu nome é Mateus, tenho 23 anos e sou de belo Horizonte - MG. Atualmente, esto
   <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div></br>
 
-Sinta-se à vontade para explorar meus repositórios! ☀️
+Feel free to explore my repositories! ☀️
 
 <!--
 <div align="left">
