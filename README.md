@@ -1,7 +1,8 @@
 ### Hi there, thanks for visiting my profile! 👋
 
-My name is Mateus, I'm 23 years old and I'm from Belo Horizonte - MG. Currently, I'm studying Computer Science at the Federal University of Minas Gerais (UFMG).
+My name is Mateus, I'm 23 years old and I live in Belo Horizonte - MG. Currently, I'm studying Computer Science at the Federal University of Minas Gerais (UFMG) and working as a Fullstack Developer Intern at Synergia DCC/UFMG.
 <br>
+
 <!--[![Habilidades:](https://skillicons.dev/icons?i=js,python,php,c,cpp,mysql,git)](https://skillicons.dev)-->
 
 <img src="https://img.shields.io/badge/Working at:-Synergia DCC/UFMG-brightgreen?style=for-the-badge"/>
@@ -23,20 +24,6 @@ My name is Mateus, I'm 23 years old and I'm from Belo Horizonte - MG. Currently,
 
 Feel free to explore my repositories! ☀️
 
-<!--
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
--->
-
 <p align="center">
     <img src="https://github.com/Mateusg2022/CODEFORCES/blob/main/4fun/amongus.gif" width="70" align="center">
 </p>
-
-<!--<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusg2022&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>-->
-
-
-
